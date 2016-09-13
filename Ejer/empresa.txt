@@ -1,0 +1,11 @@
+10
+Juan 150
+Irbing 250
+Sofia 500
+Guadalupe 250
+Luis 500
+Manuel 150
+Jorge 150
+Mario 150
+Roberto 250
+Miriam 500
